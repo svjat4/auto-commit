@@ -4,7 +4,7 @@
 
 [![Auto commit](https://github.com/lazyfayi/auto-commit/actions/workflows/autocommit.yml/badge.svg)](https://github.com/lazyfayi/auto-commit/actions/workflows/autocommit.yml)
 
-![image](https://user-images.githubusercontent.com/80803750/211128466-67f721fe-afaf-429d-8141-85ccb29daddc.png)
+![image](https://user-images.githubusercontent.com/80803750/211128517-c1109418-37bd-41b6-b006-a5b0bad8490a.png)
 
 
 ## Make it your own
